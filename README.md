@@ -13,6 +13,8 @@ Ensure you have Java installed on your machine.
 Clone the Repository:
 
 -> git clone https://github.com/Ankit5580/encrypt-decrypt.git
+ 
+ 
 cd encrypt-decrypt
 
 
