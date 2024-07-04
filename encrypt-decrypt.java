@@ -1,6 +1,6 @@
 /* program to encrypt and decrypt a given file with a key */
 import java.io.*;
-public class task3 {
+public class encrypt-decrypt {
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         
